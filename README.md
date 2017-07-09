@@ -1,5 +1,4 @@
 # hello-world
-Just another prog
 
 Yo Pros!
 Just hit the stage and thinking of taking over the world too, jk,
